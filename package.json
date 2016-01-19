@@ -1,0 +1,19 @@
+{
+  "name": "bdpick",
+  "version": "0.0.1",
+  "description": "Bdpick project",
+  "main": "node-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustofa-kamal/bdpick.git"
+  },
+  "author": "mustofa kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustofa-kamal/bdpick/issues"
+  },
+  "homepage": "https://github.com/mustofa-kamal/bdpick#readme"
+}
